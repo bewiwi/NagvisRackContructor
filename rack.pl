@@ -1,5 +1,13 @@
 #!/usr/bin/perl -w
 
+# * ----------------------------------------------------------------------------
+# * « LICENCE BEERWARE » (Révision 42):
+# * <loic.porte@bibabox.fr> a créé ce fichier. Tant que vous conservez cet avertissement,
+# * vous pouvez faire ce que vous voulez de ce truc. Si on se rencontre un jour et
+# * que vous pensez que ce truc vaut le coup, vous pouvez me payer une bière en
+# * retour. PORTE Loïc
+# * ----------------------------------------------------------------------------
+
 #############################################
 # Build a map for nagvis with basic array : #
 # to execute : ./rack.pl                    #
